@@ -1,5 +1,5 @@
 
-# [Aitoearn: The Best Open-Source AI Agent for Content Marketing](https://aitoearn.ai)
+# [Aitoearn: The Best Open-Source AI Agent for Content Marketing](https://aitoearn.ai)1
 
 <a href="https://trendshift.io/repositories/20785" target="_blank"><img src="https://trendshift.io/api/badge/repositories/20785" alt="yikart%2FAiToEarn | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
